@@ -158,9 +158,9 @@
 
 }
 
-li {
+/* li {
   list-style-type: none;
-}
+} */
 
 .table__cell {
   width: 250px;
@@ -169,6 +169,8 @@ li {
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
+  list-style-type: none;
+
 }
 
 .table__heading {
@@ -354,7 +356,7 @@ li {
   line-height: 25px;
   font-size: 18px;
   margin: 18px 0 18px;
-  font-size: normal;
+  font-weight: normal;
   display: flex;
 }
 .footer__column_content-info {
