@@ -360,7 +360,7 @@
     padding: 0;
 }
 
-.footer__column_content__info {
+.footer__column_content_info {
     display: flex;
     flex-direction: column;
 }
