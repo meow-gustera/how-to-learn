@@ -1,0 +1,9 @@
+.video__iframe {
+  padding-right: 20px;
+  bottom: -20%;
+  z-index: 1;
+}
+
+.video__iframe:last-child {
+  padding-right: 0;
+}

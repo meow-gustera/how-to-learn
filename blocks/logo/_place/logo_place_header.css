@@ -1,0 +1,6 @@
+.logo_place_header {
+    position: absolute;
+    top: 30px;
+    z-index: 2;
+    left: 64px;
+}
