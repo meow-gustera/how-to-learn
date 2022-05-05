@@ -1,5 +1,4 @@
 .rotation {
-    display: flex;
     animation: move 20s infinite;
   }
 
