@@ -1,12 +1,6 @@
 .table__cell_theme_dark {
   width: 200px;
   margin-top: 80px;
-  padding-bottom: 0;
   margin-right: 0;
-  line-height: 1.2;
-  font-size: 18px;
-  font-weight: normal;
-  list-style-type: none;
   color: white;
-  z-index: 1;
 }
